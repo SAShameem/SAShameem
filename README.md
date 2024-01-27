@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SAShameem
-- 👀 I’m interested in CSE & I love to explore the Internet World.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ............
-- 📫 How to reach me :
+- 👋 Assalamualaikum, I’m Sabbir Ahmed Shameem (S.A.S.)
+- 👀 I’m interested in CSE, Cybersecurity & Ai. Also, I love to explore the Internet World.
+- 🌱 I’m currently learning Python & C Programming.
+- 📫 Find Me On :
 - facebook: fb.me/ItsSASofficial
 - Instagram: @IamSAS_Official
 - Twitter:  @IamSAS_Official
