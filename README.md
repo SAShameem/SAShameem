@@ -4,8 +4,9 @@
 <h1 align="center"> Hey, It's Sabbir Ahmed Shameem (S.A.S)</h1>
 <h4 align="center"> Learner | Failure | Entrepreneur | Tech Entusiast </h4>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=SAShameem&style=flat-square)" alt="Sabbir Ahmed Shameem" /> </p>
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=SAShameem&style=for-the-badge">
+</a>
 <h3 align="left">Connect With Me On:</h3>
 <p align="left">
 
