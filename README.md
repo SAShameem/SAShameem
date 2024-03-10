@@ -5,7 +5,7 @@
 <h4 align="center"> Learner | Failure | Entrepreneur | Tech Entusiast </h4>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SAShameem&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=SAShameem&style=flat-square">
 </a>
 <h3 align="left">Connect With Me On:</h3>
 <p align="left">
