@@ -15,6 +15,7 @@
 <a href="https://facebook.com/ItsSASOfficial" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Sabbir Ahmed Shameem's Facebook Page" height="30" width="40" /> Facebook </a>
 <a href="https://linkedin.com/in/sabbirahmedshameem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sabbir Ahmed Shameem's LinkedIn ID" height="30" width="40" /> LinkedIn </a>
 <a href="https://instagram.com/@IamSAS_Official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sabbir Ahmed Shameem's Instagram ID" height="30" width="40" /> Instagram </a>
+<a href="https://twitter/@IamSAS_Official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Sabbir Ahmed Shameem's Twitter ID" height="30" width="40" /> Twitter </a>
 </p>
 
 
