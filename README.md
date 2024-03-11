@@ -8,9 +8,8 @@ Study: CSE Student @ Varendra University, Rajshahi, Bangladesh. <br><br>
 
 Experiences: <br>
 - Founder & CEO of Education Bee <br>
-- Founder & CEO of BETAx Hosting <br>e
+- Founder & CEO of BETAx Hosting <br>
 - Ambassador @ Grow Your Reader
-  <br>
 Contributions: <br>
 - Contributor @ Wikipedia
 - Volunteer Translator @ The Tor Project
