@@ -2,7 +2,11 @@
     
   
 <h1 align="center"> Hey, It's Sabbir Ahmed Shameem (S.A.S)</h1>
-<h4 align="center"> Learner | Failure | Entrepreneur | Tech Entusiast </h4>
+<h4 align="center"> Learner | Failure | Entrepreneur | Tech Enthusiast </h4>
+<h2> I am a Noob Coder, have knowledge of a few coding languages, and have an interest in Cybersecurity & AI. I love to explore the internet world (Dark Web, Deep Web, Surface Web...) <br>
+Academic: CSE Student @ Varendra University, Rajshahi, Bangladesh. <br>
+
+Experiences: Founder & CEO of Education Bee and BETAx Hosting.</h2>
 
 </head>
 
