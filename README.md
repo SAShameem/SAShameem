@@ -13,6 +13,7 @@ Experiences: <br>
 
 Contributions: <br>
 - Contributor @ Wikipedia
+- Contributor @Kubernetes
 - Volunteer Translator @ The Tor Project
 - Facebook Editor @ Facebook Editor Community
 </h6>
