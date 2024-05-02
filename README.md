@@ -3,10 +3,9 @@
   
 <h1 align="center"> Hey, It's Sabbir Ahmed Shameem (S.A.S)</h1>
 <h4 align="center"> Learner | Failure | Entrepreneur | Tech Enthusiast </h4> <br>
-<h6> I am an Undergrad(CSE) student, have knowledge of a few coding languages, and have an interest in Cybersecurity & AI. I love to explore the internet world (Dark Web, Deep Web, Surface Web...) <br>
-    I have an interest in different sectors and am always eager to learn new things. <br>
+<h6> I am an Undergrad(CSE) student, have knowledge of a few coding languages, and have an interest in Cybersecurity & AI. I love to explore the internet world (Dark Web, Deep Web, Surface Web...) I have an interest in different sectors and am always eager to learn new things. <br><br>
     I like to write codes but love to enjoy the outputs...
-    <br>
+    <br><br>
 Study: CSE Student @ Varendra University, Rajshahi, Bangladesh. <br><br>
 
 Experiences: <br>
