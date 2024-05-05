@@ -14,10 +14,10 @@ Study: CSE Student @ Varendra University, Rajshahi, Bangladesh. <br><br>
 - Ambassador @ Grow Your Reader <br> <br>
 
 ## Contributions: 
-- Contributor @ Wikipedia
-- Contributor @ Kubernetes
-- Volunteer Translator @ The Tor Project
-- Facebook Editor @ Facebook Editor Community
+- Contributor @ <a href="https://www.wikipedia.org/">Wikipedia</a>
+- Contributor @ <a href="https://github.com/kubernetes/">Kubernetes</a>
+- Volunteer Translator @ <a href="https://www.torproject.org">The Tor Project</a>
+- Facebook Editor @ <a href="https://www.facebook.com/editorcommunity/">Facebook Editor Community</a>
 </h6>
 
 </head>
