@@ -9,16 +9,17 @@
 Study: CSE Student @ Varendra University, Rajshahi, Bangladesh. <br><br>
 
 ## Experiences : 
-- Founder & CEO of Education Bee <br>
-- Founder & CEO of BETAx Hosting <br>
-- Ambassador @ Grow Your Reader <br>
-- Student Partner @ ApplyStart.com <br><br>
+- Founder & CEO of <a href="https://www.nextPrtnr.app">nextPrtnr</a> - Building the Product & Looking for Investment
+- Founder & CEO of <a href="https://www.BETAxHosting.com">BETAx Hosting</a> - Find Hot Deals on Domain & Hostings...
+- Founder & CEO of <a href="https://www.Education-Bee.com">Education Bee</a> - Failed
+- Student Partner @ <a href="https://www.ApplyStart.com">ApplyStart.com</a> - Use Referral Code : <strong> SAS22</strong>
+- Former Ambassador @ Grow Your Reader
 
 ## Contributions : 
-- Contributor @ <a href="https://www.wikipedia.org/">Wikipedia</a>
 - Contributor @ <a href="https://github.com/kubernetes/">Kubernetes</a>
 - Volunteer Translator @ <a href="https://www.torproject.org">The Tor Project</a>
 - Facebook Editor @ <a href="https://www.facebook.com/editorcommunity/">Facebook Editor Community</a>
+- Contributor @ <a href="https://www.wikipedia.org/">Wikipedia</a>
 </h6>
 
 </head>
